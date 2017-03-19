@@ -1,18 +1,15 @@
 
 # The name of your website.
-name: Holo Alfa
+name: Apuntes
 
 description:
 
   # Description of your site. This will show up in google.
-  meta: Holo Alfa is a minimalist, mobile first Jekyll theme with focus on readability and content.
-
+  meta: apuntes, ciecias de la computación, universidad de buenos aires
   # Description of your site. This will show up on the front page.
-  subtitle: Holo Alfa is a minimalist, mobile first Jekyll theme with focus on readability and content. <a href="https://github.com/steinvc/holo-alfa">&lt;/&gt; on Github</a>.
-
-author:
-  name: Dr. Jekyll # Change this!
-
+  subtitle: ¡¡apuntes!!
+author:Nadia MC
+  name: Nadia MC
   # Necessary for contact page
   email: your@email.com # Change this!
 
@@ -20,8 +17,8 @@ author:
   # want it.
   info:
 
-url: http://steinvc.github.io
-baseurl: "/holo-alfa"
+url: http://nadiamc.github.io
+baseurl: ""
 
 # language attribute in <html> element.
 lang: en
